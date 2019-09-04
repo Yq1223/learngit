@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 test
 this is one;
 this is one;
@@ -6,3 +7,6 @@ this is two;
 this is three;
 this is one;
 this is one;
+=======
+learngit
+>>>>>>> add test.txt
